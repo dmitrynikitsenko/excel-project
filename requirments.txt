@@ -1,0 +1,13 @@
+Webpack (imports/exports)
+  Babel - транспиляция кода
+  Scss - препроцессор css
+  Eslint - чистота кода
+  2 Modes - 2 мода разработки
+    - Dev
+      Dev Server, - для изменений онлайн
+      SourceMaps, - исходные карты для отслежиния ожибок
+      Eslint, - качество кода (единый стиль разработки)
+      Not Minified JS & CSS - не минифицированные файлы для разработки
+    - Prod
+      Minified Code (сжатый код)
+Git
